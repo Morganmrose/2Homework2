@@ -1,0 +1,119 @@
+Homework 2 Data Sheet
+
+1. Buffer Size: 1000
+Test1:
+Wrote 219933620 bytes in 3490.9402MS, rate
+of 63.00125499 bytes/sec
+Test2:
+Wrote 219933620 bytes in 6144.6994MS, rate
+of 35.79241321 bytes/sec
+Test3:
+Wrote 219933620 bytes in 3296.0774MS, rate
+of 66.728566328 bytes/sec
+
+
+2. Buffer Size: 10,000
+Test1:
+Wrote 219933620 bytes in 2532.3497MS, rate
+of 86.8496243 bytes/sec
+
+Test2:
+Wrote 219933620 bytes in 3296.0774MS, rate
+of 66.728566328 bytes/sec
+
+Test3:
+Wrote 219933620 bytes in 2348.0575MS, rate
+of 93.66619854 bytes/sec
+
+3.Buffer Size: 100,000
+Test1:
+Wrote 219933620 bytes in 2479.145MS, rate
+of 88.713374318 bytes/sec
+Test2:
+Wrote 219933620 bytes in 2228.0714MS, rate
+of 98.71031063 bytes/sec
+Test3:
+Wrote 219933620 bytes in 2334.5052MS, rate
+of 94.20995078 bytes/sec
+
+4. Buffer Size: 1,000,000
+Test1:
+Wrote 219933620 bytes in 1532.4631MS, rate
+of 143.5164213 bytes/sec
+Test2:
+Wrote 219933620 bytes in 1568.8939MS, rate
+of 140.1838709 bytes/sec
+Test3:
+Wrote 219933620 bytes in 2185.0194MS, rate
+of 100.655225307 bytes/sec
+
+5. Buffer Size: 2,000,000
+Test1:
+Wrote 219933620 bytes in 1256.5952MS, rate
+of 175.0234443 bytes/sec
+Test2:
+Wrote 219933620 bytes in 1448.4046MS, rate
+of 151.84532564 bytes/sec
+Test3:
+Wrote 219933620 bytes in 1259.4214MS, rate
+of 174.63068358 bytes/sec
+
+
+6. Buffer Size: 3,000,000
+Test1:
+Wrote 219933620 bytes in 1704.0749MS, rate
+of 129.06335279 bytes/sec
+Test2:
+Wrote 219933620 bytes in 1759.3588MS, rate
+of 125.0078267 bytes/sec
+Test3:
+Wrote 219933620 bytes in 1280.9871MS, rate
+of 171.6907375569 bytes/sec
+
+
+7. Buffer Size: 10
+Test1:
+Wrote 219933620 bytes in 3905.23MS, rate
+of 56.3176864 bytes/sec
+Test2:
+Wrote 219933620 bytes in 3326.9006MS, rate
+of 66.107661 bytes/sec
+Test3:
+Wrote 219933620 bytes in 3310.3498MS, rate
+of 66.43818124 bytes/sec
+
+
+8. Buffer Size: 5
+Test1:
+Wrote 219933620 bytes in 5157.7861MS, rate
+of 42.64108 bytes/sec
+Test2:
+Wrote 219933620 bytes in 5358.4547MS, rate
+of 41.042249 bytes/sec
+Test3:
+Wrote 219933620 bytes in 5266.2227MS, rate
+of 41.763068622 bytes/sec
+
+
+9. Buffer Size: 100,000,000
+Test1:
+Wrote 219933620 bytes in 1851.0797MS, rate
+of 118.81369559 bytes/sec
+Test2:
+Wrote 219933620 bytes in 1805.9825MS, rate
+of 121.7805931 bytes/sec
+Test3:
+Wrote 219933620 bytes in 2221.8055MS, rate
+of 98.988691 bytes/sec
+
+
+10. Buffer Size: 1,000,000,000
+Test1:
+Wrote 219933620 bytes in 5677.3068MS, rate
+of 38.73907607 bytes/sec
+Test2:
+Wrote 219933620 bytes in 5162.6914MS, rate
+of 42.600574 bytes/sec
+Test3:
+Wrote 219933620 bytes in 5597.583MS, rate
+of 39.290818912377 bytes/sec
