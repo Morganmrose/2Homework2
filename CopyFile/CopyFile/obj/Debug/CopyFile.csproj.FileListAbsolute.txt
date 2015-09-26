@@ -1,0 +1,6 @@
+c:\users\wia\documents\visual studio 2013\Projects\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
+c:\users\wia\documents\visual studio 2013\Projects\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+c:\users\wia\documents\visual studio 2013\Projects\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+c:\users\wia\documents\visual studio 2013\Projects\CopyFile\CopyFile\obj\Debug\CopyFile.csprojResolveAssemblyReference.cache
+c:\users\wia\documents\visual studio 2013\Projects\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+c:\users\wia\documents\visual studio 2013\Projects\CopyFile\CopyFile\obj\Debug\CopyFile.pdb
